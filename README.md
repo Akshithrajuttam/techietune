@@ -1,17 +1,17 @@
 # techietune
 our team techie tune developers
 <ul>1.srinivas</ul
-2.saishma
-3.Moulika
-4.sai vyshnavi
-5.dubasi divya
-7.Dussa sathvik
-8.saikiran
+<ul>2.saishma</ul>
+<ul>3.Moulika</ul>
+<ul>4.sai vyshnavi</ul>
+<ul>5.dubasi divya</ul>
+<ul>7.Dussa sathvik</ul>
+<ul>8.saikiran</ul>
 
 
-front -end:Html,css,js
-framwork:?
-backend:mysql
+<ul>8front -end:Html,css,js</ul>
+<ul>8framwork:?</ul>
+<ul>8backend:mysql</ul>
 
 
 hosting-link  or diployment link is:https://agitated-brattain-29b2ff.netlify.app
