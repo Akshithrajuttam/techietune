@@ -14,4 +14,4 @@ our team techie tune developers
 <ul>8backend:mysql</ul>
 
 
-Diployment link is:<a href="https://agitated-brattain-29b2ff.netlify.app"sytle="color:white;border:2px blue;">click here</a>
+Diployment link is <a href="https://agitated-brattain-29b2ff.netlify.app"sytle="color:white;border:2px blue;">click here</a>
