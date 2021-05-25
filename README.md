@@ -8,10 +8,11 @@ our team techie tune developers
 <ul>7.Dussa sathvik</ul>
 <ul>8.saikiran</ul>
 
-
-<ul>8front -end:Html,css,js</ul>
-<ul>8framwork:?</ul>
-<ul>8backend:mysql</ul>
+<br>
+<p>Technlogies</p>
+<ul>Front -end:Html,css,js</ul>
+<ul>Framwork:?</ul>
+<ul>Backend:mysql</ul>
 
 
 Diployment link is <a href="https://agitated-brattain-29b2ff.netlify.app">click here</a>
